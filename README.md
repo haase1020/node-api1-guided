@@ -10,7 +10,7 @@ The code for the guided project will be written in a single file for simplicity.
 
 - an HTTP client like [Postman](https://www.getpostman.com/downloads/) or [Insomnia](https://insomnia.rest/download/).
 
-## Project Setup
+## Project Setup Today is March 9, 2020
 
 - [x] **fork** and clone this repository.
 - [x] **CD into the folder** where you cloned **your fork**.
